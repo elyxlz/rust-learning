@@ -1,7 +1,0 @@
-Mirror in progress since Fri, 27 Sep 2024 01:06:18 .. please wait!
-httrack https://doc.rust-lang.org/rust-by-example/ -O ./rust-by-example -v 
-To pause the engine: create an empty file named 'hts-stop.lock'
-PID=35781
-UID=1000
-GID=1000
-START=1727395578
